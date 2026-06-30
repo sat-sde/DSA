@@ -13,4 +13,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0994-rotting-oranges](https://github.com/sat-sde/DSA/tree/master/0994-rotting-oranges) |
+## Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sat-sde/DSA/tree/master/0901-online-stock-span) |
+## Design
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sat-sde/DSA/tree/master/0901-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sat-sde/DSA/tree/master/0901-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/sat-sde/DSA/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
