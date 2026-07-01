@@ -82,17 +82,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/sat-sde/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sat-sde/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/sat-sde/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sat-sde/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/sat-sde/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sat-sde/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
+| [0099-recover-binary-search-tree](https://github.com/sat-sde/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sat-sde/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
