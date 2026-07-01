@@ -5,7 +5,6 @@ public:
         int n=grid[0].size();
         queue<pair<pair<int,int>,int>>q;
         vector<vector<int>>vis(m,vector<int>(n,0));
-        int t=0;
         for(int i=0;i<m;i++){
             for(int j=0;j<n;j++){
                 if(grid[i][j]==2){
