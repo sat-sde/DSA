@@ -9,7 +9,6 @@ public:
             for(int j=0;j<n;j++){
                 if(grid[i][j]==2){
                     q.push({{i,j},0});
-                    vis[i][j]=2;
                 }
             }
         }
