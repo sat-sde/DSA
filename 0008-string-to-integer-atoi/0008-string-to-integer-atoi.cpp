@@ -20,7 +20,7 @@ public:
             if(sign==1 && num>(long long)INT_MAX){
                 return INT_MAX;
             }
-            if(sign==-1 && num>(long long)INT_MAX+1){
+            if(sign==-1 && -num<INT_MIN){
                 return INT_MIN;
             }
             i++;
