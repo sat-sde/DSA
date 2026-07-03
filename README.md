@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sat-sde/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sat-sde/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0151-reverse-words-in-a-string](https://github.com/sat-sde/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/sat-sde/DSA/tree/master/0165-compare-version-numbers) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sat-sde/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## String
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sat-sde/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/sat-sde/DSA/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/sat-sde/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/sat-sde/DSA/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/sat-sde/DSA/tree/master/0242-valid-anagram) |
 | [0686-repeated-string-match](https://github.com/sat-sde/DSA/tree/master/0686-repeated-string-match) |
 ## Dynamic Programming
