@@ -170,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/sat-sde/DSA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sat-sde/DSA/tree/master/0210-course-schedule-ii) |
+## Database
+|  |
+| ------- |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/sat-sde/DSA/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 <!---LeetCode Topics End-->
