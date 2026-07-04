@@ -8,7 +8,7 @@ public:
             if(color[v]==-1){
                 color[v]=1-col;
                if(dfs(v,color[v],color,graph)==false){
-                return false;;
+                return false;
                }
             }
         }
