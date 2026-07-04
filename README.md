@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/sat-sde/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sat-sde/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sat-sde/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/sat-sde/DSA/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -18,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sat-sde/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/sat-sde/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sat-sde/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/sat-sde/DSA/tree/master/1020-number-of-enclaves) |
 ## Matrix
 |  |
 | ------- |
 | [0542-01-matrix](https://github.com/sat-sde/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sat-sde/DSA/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/sat-sde/DSA/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/sat-sde/DSA/tree/master/1020-number-of-enclaves) |
 ## Stack
 |  |
 | ------- |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/sat-sde/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sat-sde/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/sat-sde/DSA/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/sat-sde/DSA/tree/master/1020-number-of-enclaves) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sat-sde/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/sat-sde/DSA/tree/master/0547-number-of-provinces) |
+| [1020-number-of-enclaves](https://github.com/sat-sde/DSA/tree/master/1020-number-of-enclaves) |
 ## Graph Theory
 |  |
 | ------- |
