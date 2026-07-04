@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0127-word-ladder](https://github.com/sat-sde/DSA/tree/master/0127-word-ladder) |
 | [0200-number-of-islands](https://github.com/sat-sde/DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/sat-sde/DSA/tree/master/0207-course-schedule) |
 | [0542-01-matrix](https://github.com/sat-sde/DSA/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/sat-sde/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sat-sde/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/sat-sde/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0200-number-of-islands](https://github.com/sat-sde/DSA/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/sat-sde/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sat-sde/DSA/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sat-sde/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/sat-sde/DSA/tree/master/0733-flood-fill) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/sat-sde/DSA/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/sat-sde/DSA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/sat-sde/DSA/tree/master/0785-is-graph-bipartite) |
 ## String Matching
@@ -159,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/sat-sde/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sat-sde/DSA/tree/master/0242-valid-anagram) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/sat-sde/DSA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
