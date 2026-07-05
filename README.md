@@ -173,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/sat-sde/DSA/tree/master/0196-delete-duplicate-emails) |
 | [0610-triangle-judgement](https://github.com/sat-sde/DSA/tree/master/0610-triangle-judgement) |
 | [1667-fix-names-in-a-table](https://github.com/sat-sde/DSA/tree/master/1667-fix-names-in-a-table) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/sat-sde/DSA/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
