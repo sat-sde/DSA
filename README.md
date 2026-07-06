@@ -212,4 +212,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-cheapest-flights-within-k-stops](https://github.com/sat-sde/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sat-sde/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sat-sde/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
+## Concurrency
+|  |
+| ------- |
+| [1226-the-dining-philosophers](https://github.com/sat-sde/DSA/tree/master/1226-the-dining-philosophers) |
 <!---LeetCode Topics End-->
