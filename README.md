@@ -54,10 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sat-sde/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0901-online-stock-span](https://github.com/sat-sde/DSA/tree/master/0901-online-stock-span) |
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sat-sde/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0901-online-stock-span](https://github.com/sat-sde/DSA/tree/master/0901-online-stock-span) |
 ## Monotonic Stack
 |  |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/sat-sde/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/sat-sde/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sat-sde/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sat-sde/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Depth-First Search
@@ -170,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/sat-sde/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/sat-sde/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sat-sde/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0778-swim-in-rising-water](https://github.com/sat-sde/DSA/tree/master/0778-swim-in-rising-water) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sat-sde/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
@@ -178,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0099-recover-binary-search-tree](https://github.com/sat-sde/DSA/tree/master/0099-recover-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/sat-sde/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sat-sde/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sat-sde/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
 ## Union-Find
@@ -250,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sat-sde/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/sat-sde/DSA/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
