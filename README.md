@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/sat-sde/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/sat-sde/DSA/tree/master/0049-group-anagrams) |
+| [0198-house-robber](https://github.com/sat-sde/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sat-sde/DSA/tree/master/0200-number-of-islands) |
 | [0239-sliding-window-maximum](https://github.com/sat-sde/DSA/tree/master/0239-sliding-window-maximum) |
 | [0542-01-matrix](https://github.com/sat-sde/DSA/tree/master/0542-01-matrix) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sat-sde/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/sat-sde/DSA/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/sat-sde/DSA/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/sat-sde/DSA/tree/master/0542-01-matrix) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sat-sde/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sat-sde/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
