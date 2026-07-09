@@ -9,7 +9,7 @@ public:
             int nontake=dp[i-1];
             int take=nums[i];
             if(i-1>0){
-                take=nums[i]+dp[i-2];
+                take+=dp[i-2];
             }
             dp[i]=max(take,nontake);
         }
