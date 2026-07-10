@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sat-sde/DSA/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/sat-sde/DSA/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/sat-sde/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sat-sde/DSA/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/sat-sde/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sat-sde/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/sat-sde/DSA/tree/master/0213-house-robber-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/sat-sde/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sat-sde/DSA/tree/master/0064-minimum-path-sum) |
 | [0200-number-of-islands](https://github.com/sat-sde/DSA/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/sat-sde/DSA/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/sat-sde/DSA/tree/master/0733-flood-fill) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/sat-sde/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0062-unique-paths](https://github.com/sat-sde/DSA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sat-sde/DSA/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/sat-sde/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sat-sde/DSA/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/sat-sde/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sat-sde/DSA/tree/master/0213-house-robber-ii) |
