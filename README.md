@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sat-sde/DSA/tree/master/0213-house-robber-ii) |
 | [0239-sliding-window-maximum](https://github.com/sat-sde/DSA/tree/master/0239-sliding-window-maximum) |
 | [0416-partition-equal-subset-sum](https://github.com/sat-sde/DSA/tree/master/0416-partition-equal-subset-sum) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sat-sde/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0542-01-matrix](https://github.com/sat-sde/DSA/tree/master/0542-01-matrix) |
 | [0721-accounts-merge](https://github.com/sat-sde/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sat-sde/DSA/tree/master/0733-flood-fill) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sat-sde/DSA/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/sat-sde/DSA/tree/master/0127-word-ladder) |
 | [0242-valid-anagram](https://github.com/sat-sde/DSA/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sat-sde/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sat-sde/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/sat-sde/DSA/tree/master/0721-accounts-merge) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sat-sde/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/sat-sde/DSA/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/sat-sde/DSA/tree/master/0242-valid-anagram) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/sat-sde/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0721-accounts-merge](https://github.com/sat-sde/DSA/tree/master/0721-accounts-merge) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sat-sde/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sat-sde/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
