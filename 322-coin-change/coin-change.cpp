@@ -1,24 +1,24 @@
 class Solution {
 public:
-int dp[13][10001];
-    int solve(int i,int n,vector<int>& coins, int amount){
-        if(amount==0){
-            return 0;
-        }
-        if(i==n) return 1e9;
-        if(dp[i][amount]!=-1) return dp[i][amount];
-        int nontake=solve(i+1,n,coins,amount);
-        int take=INT_MAX;
-        if(coins[i]<=amount){
-            take=1+solve(i,n,coins,amount-coins[i]);
-        }
-        return dp[i][amount]=min(take,nontake);
-
-    }
+    long long dp[13][10001];
     int coinChange(vector<int>& coins, int amount) {
-        int n=coins.size();
-        memset(dp,-1,sizeof(dp));
-        int coin=solve(0,n,coins,amount);
-        return coin >= 1e9 ? -1:coin;
+        int n = coins.size();
+        memset(dp, 0, sizeof(dp));
+        for (int t = 0; t <= amount; t++) {
+            if(t%coins[0]==0)  dp[0][t] = t/coins[0];
+            else dp[0][t]=1e9;
+        }
+        for (int i = 1; i < n; i++) {
+            for (int t = 0; t <= amount; t++) {
+                int nontake = dp[i-1][t];
+                int take = 1e9;
+                if (coins[i] <= t) {
+                    take = 1 + dp[i][t - coins[i]];
+                }
+                dp[i][t] = min(take, nontake);
+            }
+        }
+        int coin = dp[n-1][amount];
+        return coin >= 1e9 ? -1 : coin;
     }
 };
