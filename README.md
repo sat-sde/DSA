@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/sat-sde/DSA/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sat-sde/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/sat-sde/DSA/tree/master/0049-group-anagrams) |
+| [0115-distinct-subsequences](https://github.com/sat-sde/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/sat-sde/DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/sat-sde/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sat-sde/DSA/tree/master/0165-compare-version-numbers) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sat-sde/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sat-sde/DSA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/sat-sde/DSA/tree/master/0070-climbing-stairs) |
+| [0115-distinct-subsequences](https://github.com/sat-sde/DSA/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/sat-sde/DSA/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/sat-sde/DSA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sat-sde/DSA/tree/master/0213-house-robber-ii) |
