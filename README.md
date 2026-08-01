@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sat-sde/DSA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/sat-sde/DSA/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/sat-sde/DSA/tree/master/0120-triangle) |
+| [0128-longest-consecutive-sequence](https://github.com/sat-sde/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0198-house-robber](https://github.com/sat-sde/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sat-sde/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/sat-sde/DSA/tree/master/0213-house-robber-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/sat-sde/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sat-sde/DSA/tree/master/0049-group-anagrams) |
 | [0127-word-ladder](https://github.com/sat-sde/DSA/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/sat-sde/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/sat-sde/DSA/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/sat-sde/DSA/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sat-sde/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sat-sde/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sat-sde/DSA/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/sat-sde/DSA/tree/master/0547-number-of-provinces) |
 | [0721-accounts-merge](https://github.com/sat-sde/DSA/tree/master/0721-accounts-merge) |
