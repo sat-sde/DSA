@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sat-sde/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sat-sde/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/sat-sde/DSA/tree/master/0213-house-robber-ii) |
+| [0238-product-of-array-except-self](https://github.com/sat-sde/DSA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/sat-sde/DSA/tree/master/0239-sliding-window-maximum) |
 | [0322-coin-change](https://github.com/sat-sde/DSA/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/sat-sde/DSA/tree/master/0368-largest-divisible-subset) |
@@ -375,4 +376,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sat-sde/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/sat-sde/DSA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
