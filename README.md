@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/sat-sde/DSA/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/sat-sde/DSA/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/sat-sde/DSA/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/sat-sde/DSA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/sat-sde/DSA/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/sat-sde/DSA/tree/master/0072-edit-distance) |
+| [0076-minimum-window-substring](https://github.com/sat-sde/DSA/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/sat-sde/DSA/tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/sat-sde/DSA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/sat-sde/DSA/tree/master/0151-reverse-words-in-a-string) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sat-sde/DSA/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/sat-sde/DSA/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/sat-sde/DSA/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/sat-sde/DSA/tree/master/0076-minimum-window-substring) |
 | [0127-word-ladder](https://github.com/sat-sde/DSA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/sat-sde/DSA/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/sat-sde/DSA/tree/master/0242-valid-anagram) |
