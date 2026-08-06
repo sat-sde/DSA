@@ -221,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/sat-sde/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sat-sde/DSA/tree/master/0877-stone-game) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sat-sde/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sat-sde/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Trie
 |  |
 | ------- |
@@ -408,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/sat-sde/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sat-sde/DSA/tree/master/0877-stone-game) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/sat-sde/DSA/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
