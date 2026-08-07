@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sat-sde/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0721-accounts-merge](https://github.com/sat-sde/DSA/tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/sat-sde/DSA/tree/master/0733-flood-fill) |
+| [0739-daily-temperatures](https://github.com/sat-sde/DSA/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/sat-sde/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/sat-sde/DSA/tree/master/0827-making-a-large-island) |
 | [0877-stone-game](https://github.com/sat-sde/DSA/tree/master/0877-stone-game) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sat-sde/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/sat-sde/DSA/tree/master/0173-binary-search-tree-iterator) |
+| [0739-daily-temperatures](https://github.com/sat-sde/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/sat-sde/DSA/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/sat-sde/DSA/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/sat-sde/DSA/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
