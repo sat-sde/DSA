@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/sat-sde/DSA/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/sat-sde/DSA/tree/master/0120-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/sat-sde/DSA/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sat-sde/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/sat-sde/DSA/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/sat-sde/DSA/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/sat-sde/DSA/tree/master/0213-house-robber-ii) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sat-sde/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0173-binary-search-tree-iterator](https://github.com/sat-sde/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0901-online-stock-span](https://github.com/sat-sde/DSA/tree/master/0901-online-stock-span) |
 ## Design
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sat-sde/DSA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/sat-sde/DSA/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/sat-sde/DSA/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sat-sde/DSA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0368-largest-divisible-subset](https://github.com/sat-sde/DSA/tree/master/0368-largest-divisible-subset) |
 | [0486-predict-the-winner](https://github.com/sat-sde/DSA/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/sat-sde/DSA/tree/master/0877-stone-game) |
