@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sat-sde/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sat-sde/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/sat-sde/DSA/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sat-sde/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -398,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sat-sde/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sat-sde/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Ordered Set
 |  |
 | ------- |
