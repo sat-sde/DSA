@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/sat-sde/DSA/tree/master/0877-stone-game) |
 | [0994-rotting-oranges](https://github.com/sat-sde/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sat-sde/DSA/tree/master/1020-number-of-enclaves) |
+| [1043-partition-array-for-maximum-sum](https://github.com/sat-sde/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/sat-sde/DSA/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sat-sde/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sat-sde/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0673-number-of-longest-increasing-subsequence](https://github.com/sat-sde/DSA/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/sat-sde/DSA/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0877-stone-game](https://github.com/sat-sde/DSA/tree/master/0877-stone-game) |
+| [1043-partition-array-for-maximum-sum](https://github.com/sat-sde/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/sat-sde/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/sat-sde/DSA/tree/master/1092-shortest-common-supersequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sat-sde/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
