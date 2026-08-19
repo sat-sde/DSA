@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sat-sde/DSA/tree/master/0213-house-robber-ii) |
 | [0312-burst-balloons](https://github.com/sat-sde/DSA/tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/sat-sde/DSA/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/sat-sde/DSA/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/sat-sde/DSA/tree/master/0368-largest-divisible-subset) |
 | [0416-partition-equal-subset-sum](https://github.com/sat-sde/DSA/tree/master/0416-partition-equal-subset-sum) |
 | [0486-predict-the-winner](https://github.com/sat-sde/DSA/tree/master/0486-predict-the-winner) |
@@ -409,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/sat-sde/DSA/tree/master/0338-counting-bits) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sat-sde/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/sat-sde/DSA/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Ordered Set
