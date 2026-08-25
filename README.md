@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sat-sde/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/sat-sde/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1833-maximum-ice-cream-bars](https://github.com/sat-sde/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [2013-detect-squares](https://github.com/sat-sde/DSA/tree/master/2013-detect-squares) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sat-sde/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sat-sde/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sat-sde/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/sat-sde/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0901-online-stock-span](https://github.com/sat-sde/DSA/tree/master/0901-online-stock-span) |
 | [0981-time-based-key-value-store](https://github.com/sat-sde/DSA/tree/master/0981-time-based-key-value-store) |
+| [2013-detect-squares](https://github.com/sat-sde/DSA/tree/master/2013-detect-squares) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/sat-sde/DSA/tree/master/0901-online-stock-span) |
+| [2013-detect-squares](https://github.com/sat-sde/DSA/tree/master/2013-detect-squares) |
 ## Queue
 |  |
 | ------- |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0981-time-based-key-value-store](https://github.com/sat-sde/DSA/tree/master/0981-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/sat-sde/DSA/tree/master/1048-longest-string-chain) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sat-sde/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [2013-detect-squares](https://github.com/sat-sde/DSA/tree/master/2013-detect-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sat-sde/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/sat-sde/DSA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sat-sde/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -445,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [2013-detect-squares](https://github.com/sat-sde/DSA/tree/master/2013-detect-squares) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sat-sde/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Prefix Sum
 |  |
