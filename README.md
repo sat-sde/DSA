@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sat-sde/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/sat-sde/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1833-maximum-ice-cream-bars](https://github.com/sat-sde/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/sat-sde/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2013-detect-squares](https://github.com/sat-sde/DSA/tree/master/2013-detect-squares) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sat-sde/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sat-sde/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sat-sde/DSA/tree/master/0455-assign-cookies) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sat-sde/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/sat-sde/DSA/tree/master/1833-maximum-ice-cream-bars) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/sat-sde/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/sat-sde/DSA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/sat-sde/DSA/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3107-minimum-operations-to-make-median-of-array-equal-to-k](https://github.com/sat-sde/DSA/tree/master/3107-minimum-operations-to-make-median-of-array-equal-to-k) |
