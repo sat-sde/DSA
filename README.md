@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/sat-sde/DSA/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/sat-sde/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sat-sde/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0763-partition-labels](https://github.com/sat-sde/DSA/tree/master/0763-partition-labels) |
 | [1048-longest-string-chain](https://github.com/sat-sde/DSA/tree/master/1048-longest-string-chain) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sat-sde/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## String
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0583-delete-operation-for-two-strings](https://github.com/sat-sde/DSA/tree/master/0583-delete-operation-for-two-strings) |
 | [0686-repeated-string-match](https://github.com/sat-sde/DSA/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/sat-sde/DSA/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/sat-sde/DSA/tree/master/0763-partition-labels) |
 | [0981-time-based-key-value-store](https://github.com/sat-sde/DSA/tree/master/0981-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/sat-sde/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/sat-sde/DSA/tree/master/1092-shortest-common-supersequence) |
@@ -241,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/sat-sde/DSA/tree/master/0567-permutation-in-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sat-sde/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/sat-sde/DSA/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/sat-sde/DSA/tree/master/0763-partition-labels) |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sat-sde/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0981-time-based-key-value-store](https://github.com/sat-sde/DSA/tree/master/0981-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/sat-sde/DSA/tree/master/1048-longest-string-chain) |
@@ -398,6 +401,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sat-sde/DSA/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/sat-sde/DSA/tree/master/0044-wildcard-matching) |
 | [0455-assign-cookies](https://github.com/sat-sde/DSA/tree/master/0455-assign-cookies) |
+| [0763-partition-labels](https://github.com/sat-sde/DSA/tree/master/0763-partition-labels) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sat-sde/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1833-maximum-ice-cream-bars](https://github.com/sat-sde/DSA/tree/master/1833-maximum-ice-cream-bars) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/sat-sde/DSA/tree/master/1899-merge-triplets-to-form-target-triplet) |
