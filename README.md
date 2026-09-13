@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/sat-sde/DSA/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/sat-sde/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/sat-sde/DSA/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/sat-sde/DSA/tree/master/0835-image-overlap) |
 | [0853-car-fleet](https://github.com/sat-sde/DSA/tree/master/0853-car-fleet) |
 | [0875-koko-eating-bananas](https://github.com/sat-sde/DSA/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/sat-sde/DSA/tree/master/0877-stone-game) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/sat-sde/DSA/tree/master/0733-flood-fill) |
 | [0778-swim-in-rising-water](https://github.com/sat-sde/DSA/tree/master/0778-swim-in-rising-water) |
 | [0827-making-a-large-island](https://github.com/sat-sde/DSA/tree/master/0827-making-a-large-island) |
+| [0835-image-overlap](https://github.com/sat-sde/DSA/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/sat-sde/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/sat-sde/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sat-sde/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
