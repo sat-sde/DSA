@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1043-partition-array-for-maximum-sum](https://github.com/sat-sde/DSA/tree/master/1043-partition-array-for-maximum-sum) |
 | [1048-longest-string-chain](https://github.com/sat-sde/DSA/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/sat-sde/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sat-sde/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sat-sde/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1631-path-with-minimum-effort](https://github.com/sat-sde/DSA/tree/master/1631-path-with-minimum-effort) |
 | [1833-maximum-ice-cream-bars](https://github.com/sat-sde/DSA/tree/master/1833-maximum-ice-cream-bars) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/sat-sde/DSA/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/sat-sde/DSA/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/sat-sde/DSA/tree/master/0567-permutation-in-string) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sat-sde/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sat-sde/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sat-sde/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/sat-sde/DSA/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/sat-sde/DSA/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/sat-sde/DSA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sat-sde/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sat-sde/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/sat-sde/DSA/tree/master/1547-minimum-cost-to-cut-a-stick) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/sat-sde/DSA/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sat-sde/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/sat-sde/DSA/tree/master/0947-most-stones-removed-with-same-row-or-column) |
 | [0981-time-based-key-value-store](https://github.com/sat-sde/DSA/tree/master/0981-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/sat-sde/DSA/tree/master/1048-longest-string-chain) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sat-sde/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/sat-sde/DSA/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2013-detect-squares](https://github.com/sat-sde/DSA/tree/master/2013-detect-squares) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/sat-sde/DSA/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -326,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/sat-sde/DSA/tree/master/0875-koko-eating-bananas) |
 | [0981-time-based-key-value-store](https://github.com/sat-sde/DSA/tree/master/0981-time-based-key-value-store) |
 | [1373-maximum-sum-bst-in-binary-tree](https://github.com/sat-sde/DSA/tree/master/1373-maximum-sum-bst-in-binary-tree) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/sat-sde/DSA/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1631-path-with-minimum-effort](https://github.com/sat-sde/DSA/tree/master/1631-path-with-minimum-effort) |
 | [2035-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sat-sde/DSA/tree/master/2035-partition-array-into-two-arrays-to-minimize-sum-difference) |
 ## Binary Tree
