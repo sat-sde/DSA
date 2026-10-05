@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/sat-sde/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0739-daily-temperatures](https://github.com/sat-sde/DSA/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/sat-sde/DSA/tree/master/0853-car-fleet) |
+| [0856-score-of-parentheses](https://github.com/sat-sde/DSA/tree/master/0856-score-of-parentheses) |
 | [0901-online-stock-span](https://github.com/sat-sde/DSA/tree/master/0901-online-stock-span) |
 ## Design
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/sat-sde/DSA/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/sat-sde/DSA/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/sat-sde/DSA/tree/master/0763-partition-labels) |
+| [0856-score-of-parentheses](https://github.com/sat-sde/DSA/tree/master/0856-score-of-parentheses) |
 | [0981-time-based-key-value-store](https://github.com/sat-sde/DSA/tree/master/0981-time-based-key-value-store) |
 | [1048-longest-string-chain](https://github.com/sat-sde/DSA/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/sat-sde/DSA/tree/master/1092-shortest-common-supersequence) |
@@ -514,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/sat-sde/DSA/tree/master/1833-maximum-ice-cream-bars) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0856-score-of-parentheses](https://github.com/sat-sde/DSA/tree/master/0856-score-of-parentheses) |
 <!---LeetCode Topics End-->
