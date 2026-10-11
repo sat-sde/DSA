@@ -7,7 +7,6 @@ public:
             diff[i] = abs(nums1[i] - nums2[i]);
         }
         int maxDiff = *max_element(diff.begin(), diff.end());
-        // countDiff[d] = conut of each diff
         vector<int> countDiff(maxDiff + 1, 0);
         for (int d : diff) {
             countDiff[d]++;
@@ -15,7 +14,6 @@ public:
         int K = k1 + k2;
         for (int currDiff = maxDiff; currDiff > 0 && K > 0; currDiff--) {
             int countOps             = min(countDiff[currDiff], K);
-
             countDiff[currDiff]     -= countOps;
             countDiff[currDiff - 1] += countOps;
             K                       -= countOps;
@@ -24,7 +22,6 @@ public:
         for (long long d = 1; d <= maxDiff; ++d) {
             result += countDiff[d] * d * d;
         }
-
         return result;
     }
 };
